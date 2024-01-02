@@ -1,0 +1,32 @@
+.Horas {background-color: lightslategray}
+table {border: red 5px solid;
+    border-collapse: collapse;
+    margin: 15px;
+    padding: 15px;}
+td, th {
+    border: black 1px solid;
+}
+.recreo { text-align: center;
+    background-color: lightsalmon;
+}
+.llenguajes {
+    background-color: yellow;
+}
+.base {
+    background-color: lightcyan;
+}
+.prog{
+    background-color: green;
+}
+.Fol{
+    background-color: chocolate;
+}
+.sistemas{
+    background-color: blueviolet;
+}
+.entornos{
+    background-color: aquamarine;
+}
+.ingles{
+    background-color: brown;
+}

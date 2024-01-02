@@ -1,0 +1,23 @@
+1. El Camino de los Reyes
+2. Palabras Radiantes
+3. Juramentada
+4. Ritmo de Guerra
+5. El nuevo libro
+6. El Imperio final  
+7. El Pozo de la ascension
+8. El heroe de las eras
+<<<<<<< HEAD
+11. El señor de los anillos
+12. Harry Potter
+=======
+12. Archivo de las tormentas 6
+13. Archivo de las tormentas 7
+>>>>>>> rama1
+<<<<<<< HEAD
+
+
+11. Wax y Waine
+=======
+9. Elantris
+10. ALliento de los dioses
+>>>>>>> rama1
