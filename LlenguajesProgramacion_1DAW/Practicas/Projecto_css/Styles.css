@@ -1,0 +1,82 @@
+
+body {
+    background-color: lightslategray;
+
+}
+
+p img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: #0ffff8;
+}
+
+.main-container {
+    font-size: 50px;
+    background-color: #0e4a5c
+}
+
+#titulo {
+    text-align: center;
+    color: black;
+
+}
+
+#ganador {
+    color: #ffffff;
+    font-size: 15px;
+
+}
+
+.texto {
+
+
+}
+
+.Nominados {
+    padding: 10px;
+    margin: 10px;
+    font-family: "Comic Sans MS";
+    border: 1px solid green;
+
+}
+
+.Baldus {
+    color: #121568;
+}
+
+
+.Indies {
+    padding: 5px;
+    margin: 5px;
+    font-family: "Sans Serif Collection";
+    border: 1px solid blue;
+
+}
+
+.pizza {
+    color: rgba(9, 4, 2, 0.45);
+
+}
+.shoter {
+    padding: 15px;
+    margin: 15px;
+    font-family: "cursive";
+    border: 1px solid black;
+
+}
+
+.valo{
+    color: rgb(175, 167, 76);
+}
+.gala{
+    font-family: "Arial Black";
+    padding: 25px;
+    margin: 25px;
+}
+
+footer {
+    text-align: center;
+}

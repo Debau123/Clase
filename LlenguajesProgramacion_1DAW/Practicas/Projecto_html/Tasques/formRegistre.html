@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body style="background-color:  lightblue">
+   <h1 style="color: #186A3B">Formulari bàsic de resgistre</h1>
+   <form>
+       <label style="color: #186A3B" for="Nombre" >Nombre: </label>
+       <input type="text" placeholder="Pon tu Nombre" name="Nombre" id="Nombre">
+   </form>
+   <form>
+       <label style="color: #186A3B"  for="Apellido" >Apellido:</label>
+       <input type="text" placeholder="Pon tu apellido" name="Apellido" id="Apellido">
+   </form>
+   <form>
+       <label style="color: #186A3B" for="password" >Contraseña: </label>
+       <input type="password" placeholder="Pon una contraseña" name="password" id="password" >
+   </form>
+   <form>
+       <label style="color: #186A3B" for="pueblo">Localidad:</label>
+       <select id="pueblo" name="pueblo">
+           <option value="puerto_sagunto">Puerto Sagunto</option>
+           <option value="castellon">Castellón de la Plana</option>
+           <option value="alfondeguilla">Alfondeguilla </option>
+           <option value="caudiel">Caudiel</option>
+           <option value="Algimia de alfara">Algimia de alfara</option>
+           <option value="Vall d'Uixo">Vall d'Uixo</option>
+       </select>
+   </form>
+   <form>
+       <label style="color: #186A3B" for="Descripcion" >Descripción: </label>
+       <textarea style=" width: 300px;height: 100px;padding: 5px"name=Descripcion" id="Descripcion" placeholder="Escribe aqui la Descripcion..."></textarea>
+   </form>
+   <form>
+       <label style="color: #186A3B"> Genero:</label>
+    <input type="radio" name="genere" id="Hombre" value="Hombre">
+       <label for="Hombre">Hombre</label>
+       <input type="radio" name="genere" id="Mujer" value="Mujer">
+       <label for="Mujer">Mujer</label>
+   </form>
+   <form>
+       <label style="color: #186A3B"> Correo electronico:</label>
+       <input type="email" placeholder="Correo electronico">
+   </form>
+   <form>
+       <input type="checkbox" name="preferencia" id="preferecias" value="preferencias">
+       <label style="color: #186A3B"  for="preferecias">Quieres recibir informacion sobre novedades y ofertas</label><br>
+       <input type="checkbox" name="declaracion" id="declaracion" value="declaracion">
+       <label style="color: #186A3B" for="declaracion">Declaro haber leido y aceptar las condicionales generales del programa</label>
+
+
+
+   </form>
+<input type="submit"  value="Enviar">
+<input type="reset" value="Reiniciar">
+</body>
+</html>

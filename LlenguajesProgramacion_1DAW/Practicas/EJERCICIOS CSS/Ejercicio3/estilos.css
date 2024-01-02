@@ -1,0 +1,59 @@
+div {
+    width: 300px;
+    font-size: 15px;
+}
+div > p:first-line
+ {
+    color: green;
+}
+#segon, #tercer {
+    display: inline-block;
+
+}
+
+li:hover{
+    color: black;
+    background-color: darkred;
+}
+span{
+    font-weight: bold;
+}
+.resaltat{
+    background-color: orange;
+}
+div.resaltat span.resaltat {
+    background-color: blue;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    background-color: gray;
+    color: white;
+}
+
+
+table tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+
+table td:first-child,
+table th:first-child {
+    color: red;
+}
+
+table td:nth-child(3),
+table th:nth-child(3) {
+    color: blue;
+}
+
+
+table td:last-child,
+table th:last-child {
+    text-decoration: underline;
+}
+
+
